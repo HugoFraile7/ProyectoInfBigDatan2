@@ -151,7 +151,6 @@ Transformaciones aplicadas
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/HugoFraile7/Practica2_InfBigData
    cd Desktop/Practica2_InfraestructuraBigData
 
 
