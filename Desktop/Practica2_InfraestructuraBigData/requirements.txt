@@ -1,0 +1,13 @@
+minio
+pandas
+pyarrow>=7.0.0
+requests
+trino
+python-dotenv
+pyyaml
+matplotlib
+great-expectations
+mysql-connector-python==8.0.33
+sqlalchemy
+psycopg2-binary
+scipy

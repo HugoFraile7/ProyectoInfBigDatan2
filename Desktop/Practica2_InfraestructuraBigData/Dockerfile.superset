@@ -1,0 +1,5 @@
+# Dockerfile.superset
+FROM apache/superset:latest
+USER root
+RUN pip install flask-cors
+USER superset
